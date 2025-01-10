@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="flex flex-col md:flex-row items-center justify-between xl:pt-8 xl:pb-24">
           {/* text */}
           <div className="text-center md:text-left order-2 md:order-none">
-            <span className="text-xl">Front-End Developer base on Kakuma Refugee Camp</span>
+            <span className="text-xl">Front-End Developer based in Kakuma Refugee Camp</span>
             <h1 className="text-[48px] md:text-[80px] leading-[1.1] font-semibold">
               Welcome I&apos;m <br />
               <span className="text-accent">Kuol Buom</span>
